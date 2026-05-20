@@ -1,0 +1,58 @@
+:root {
+  /* Colors */
+  --bg: #f2f2f7;
+  --surface: #ffffff;
+  --surface2: #f8f8fa;
+  --dark: #0d0d0d;
+  --dark-card: #111111;
+  --dark-card2: #1c1c1e;
+  --ink-primary: #0d0d0d;
+  --ink-secondary: #6b6b6b;
+  --ink-tertiary: #a0a0a0;
+  --ink-disabled: #c8c8c8;
+  --border: #e8e8ec;
+  --border-light: #f0f0f3;
+
+  --income: #16a34a;
+  --income-soft: #f0fdf4;
+  --income-mid: #bbf7d0;
+  --expense: #dc2626;
+  --expense-soft: #fef2f2;
+  --expense-mid: #fecaca;
+
+  --accent: #0d0d0d;
+
+  /* Category Colors */
+  --cat-food: #fb923c;
+  --cat-shopping: #a855f7;
+  --cat-travel: #3b82f6;
+  --cat-bills: #ef4444;
+  --cat-health: #22c55e;
+  --cat-leisure: #ec4899;
+  --cat-education: #f59e0b;
+  --cat-other: #64748b;
+
+  /* Radius */
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-lg: 22px;
+  --r-xl: 30px;
+  --r-full: 9999px;
+
+  /* Shadows */
+  --shadow-xs: 0 1px 3px rgba(0,0,0,0.05);
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.06), 0 0 1px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.08), 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-lg: 0 8px 30px rgba(0,0,0,0.10), 0 2px 8px rgba(0,0,0,0.05);
+
+  /* Spacing */
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px;
+  --s5: 20px; --s6: 24px; --s8: 32px;
+
+  /* Typography */
+  --font: 'Sora', sans-serif;
+
+  /* Nav */
+  --nav-h: 72px;
+  --max-w: 430px;
+}
